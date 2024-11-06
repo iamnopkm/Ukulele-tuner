@@ -1,5 +1,5 @@
 # Ukulele-tuner
-This piece of Python code is a console application that you can use to tune your Ukulele for my school DSP final project. It is fully functional, complete with a TUII and easily extensible to other stringed instruments.
+This piece of Python code is a console application that you can use to tune your Ukulele for my school DSP final project. It is fully functional, complete with a TUI and easily extensible to other stringed instruments.
 
 ## Installation
 First install dependencies and library pyaudio. On windows, you can download the binary and install it. On linux, you can run `pip install pyaudio`.
@@ -49,6 +49,6 @@ These two are spectial line that moving constantly due to the input frequency it
 +-----------------------------^---------------------------+
 ```
 
-NOTE: Enjoy this fun tool. Feel free to use my project as reference or improve it to a flly bulid functional application.
+NOTE: Enjoy this fun tool. Feel free to use my project as reference or improve it to a fully bulid functional application.
 
 sign: iamno
